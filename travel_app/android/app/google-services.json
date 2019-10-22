@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "459279995663",
+    "firebase_url": "https://travelapp-7c6a7.firebaseio.com",
+    "project_id": "travelapp-7c6a7",
+    "storage_bucket": "travelapp-7c6a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459279995663:android:89dbc5140ca82901eda47a",
+        "android_client_info": {
+          "package_name": "com.nagi94.travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459279995663-4kqbpp8psh9vg5u5tqtlghdrb286df5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGsAPd0yWkQd8Qp6YWvxRP21d966GSXjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459279995663-4kqbpp8psh9vg5u5tqtlghdrb286df5n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "459279995663-u568lv91ngdjcuvmoukjdftd0iq3622d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nagi94.travelApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
